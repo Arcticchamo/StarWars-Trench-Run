@@ -12,5 +12,5 @@ The reason for making this game was to focus on optimisation. I wanted the game 
   <img src="https://raw.githubusercontent.com/Arcticchamo/StarWars-Trench-Run/master/Star_Wars_Trench_Run/Assets/Images/Star_Wars_Trench_Run_1.PNG">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arcticchamo/StarWars-Trench- Run/master/Star_Wars_Trench_Run/Assets/Images/Star_Wars_Trench_Run_2.PNG">
+  <img src="https://raw.githubusercontent.com/Arcticchamo/StarWars-Trench-Run/master/Star_Wars_Trench_Run/Assets/Images/Star_Wars_Trench_Run_2.PNG">
 </p>
